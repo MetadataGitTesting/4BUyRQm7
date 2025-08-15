@@ -1,0 +1,50 @@
+name: rico.kemmer
+description: composite
+version: 0.0.1
+author: x50g3pvh.cvhosh53@bdbeizsu.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: ricokemmer
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-08-15 20:36:45'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-08-15 20:36:45'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-08-15T20:36:45.332521Z'
+  name: plibMaven
+  version: 8.13.0-SNAPSHOT
+  id: '2003381225'
+  createdAt: '2025-08-15T20:36:45.332521Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
